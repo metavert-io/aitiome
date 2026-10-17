@@ -12,7 +12,7 @@ A **falsification harness** (`make validate`, `/benchmark`) quantifies
 the anti-diagnostic claim: bioactivity is at-or-below-chance vs the adversarial decoys while the curated
 rule is perfect. Red-team findings and open critiques (esp. circularity) are logged in `learnings.md`.
 
-**Repo + docs + site pages (2026-07-13):** repo is now **PUBLIC** (`github.com/jonradoff/aitiome`) —
+**Repo + docs + site pages (2026-07-13):** repo is now **PUBLIC** (`github.com/metavert-io/aitiome`) —
 `.env` is gitignored/never-committed; only `sk-ant-...` *placeholders* live in docs. MIT `LICENSE` (© 2026
 Jon Radoff). Canonical MCP docs = **`mcp.md`** (repo root; grounded in `services/cmd/mcpd/main.go`, 13
 read-only tools). README overhauled (hero screenshot `docs/assets/screenshot-hero.png`). The web app now uses

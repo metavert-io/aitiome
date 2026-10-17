@@ -7,7 +7,7 @@ package (`services/aitio`) — the human and the agent call identical methods an
 
 - **Live app:** https://aitiome.fly.dev
 - **Presentation:** https://aitiome.fly.dev/presentation.pdf
-- **Repo:** https://github.com/jonradoff/aitiome
+- **Repo:** https://github.com/metavert-io/aitiome
 - Built for **Built with Claude: Life Sciences** by Jon Radoff.
 
 > This document is generated from the MCP adapter source

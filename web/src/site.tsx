@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 // (first-visit Welcome, end-of-tour). Kept deliberately close in spirit to the
 // AboutModal pattern in Panels.tsx — a styled overlay, never a browser dialog.
 
-export const GITHUB_URL = "https://github.com/jonradoff/aitiome";
+export const GITHUB_URL = "https://github.com/metavert-io/aitiome";
 export const DECK_URL = "/presentation.pdf";
 
 function flipTheme() {

@@ -503,7 +503,7 @@ slide("closefull", `
         <li>A candidate pipeline that <b>guides the bench</b> <span class="dim">(shown live, left)</span> - gate-promoted, decoy-controlled, backtest-validated.</li>
         <li>A methods finding: <b>adversarial RLM surfaced ~10x more counter-evidence than RAG</b> (~2.2x vs RAG+) - decomposition makes Claude a measurably better skeptic.</li>
       </ul>
-      <p class="clcta">Try it live at <b class="c">aitiome.fly.dev</b> <span class="dim">/ github.com/jonradoff/aitiome</span></p>
+      <p class="clcta">Try it live at <b class="c">aitiome.fly.dev</b> <span class="dim">/ github.com/metavert-io/aitiome</span></p>
     </div>
   </div>
   ${foot(N())}`);
