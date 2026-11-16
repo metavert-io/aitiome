@@ -1,6 +1,6 @@
 # Aitiome (AITIO) — Always-Loaded Constraint Memory
 
-> Read `VIBECTL.md` for live project status. Read `docs/build-kickoff.md` (the MASTER BRIEF) before building.
+> Read `docs/build-kickoff.md` (the MASTER BRIEF) before building.
 > Read `learnings.md` for what we've learned building and red-teaming this (findings, gotchas, open critiques).
 > This file is the non-negotiable constraint memory: every session inherits it. `docs/` holds the detail.
 > The reconnaissance is **settled input**. Never silently contradict a recon finding — if you think one
